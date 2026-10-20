@@ -1,174 +1,214 @@
 
-<!-- ===================== PROFILE HEADER ===================== -->
-
 <div align="center">
 
-# 🌌 Purva Nigade
+# PURVA NIGADE
 
-### IT Student | DSA | Data Analytics | AI
+### Software Engineering · Data Analytics · Artificial Intelligence
 
-*Building solutions that make an impact...*
+**I turn ideas into practical software and data-driven solutions.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purva-225.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Purva--225-181717?style=for-the-badge&logo=github)](https://github.com/Purva-225)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[Portfolio](https://purva-225.github.io/) ·
+[GitHub](https://github.com/Purva-225) ·
+[LinkedIn](https://www.linkedin.com/in/purva-nigade-9b08a235a/) ·
+[Email](mailto:purvanigade6@gmail.com)
 
-*"Better Code. Bigger Dreams."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071426,50:123C69,100:2563EB&height=3&section=header" width="100%" alt="Blue divider"/>
 
 </div>
 
----
+## 01 / ENGINEERING PROFILE
 
-## 👨‍💻 About Me
+I'm an Information Technology undergraduate at **Walchand College of Engineering, Sangli (2029)**, interested in software development, data analytics, and AI.
 
-Hi! I'm **Purva Nigade**, an Information Technology undergraduate at **Walchand College of Engineering, Sangli (Batch 2029)**. I'm passionate about problem-solving, data analytics, and building real-world applications that create value.
+I enjoy breaking down complex problems, understanding the data behind them, and building solutions that are useful beyond the code itself.
 
-- 🎓 IT Undergraduate at WCE Sangli
-- 💻 Practicing Data Structures & Algorithms in C++
-- 📊 Exploring Python, Data Analytics & AI
-- 🔐 Interested in Cybersecurity & Cloud Computing
-- 🚀 Always learning, always building
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+| Focus | What I'm working on |
+|:--|:--|
+| **Problem Solving** | Data Structures & Algorithms in C++ |
+| **Data & Insights** | Python, Pandas, NumPy, SQL, Power BI |
+| **Software Development** | Building web applications and project workflows |
+| **AI & Emerging Tech** | Exploring machine learning, AI, cloud, and cybersecurity |
 
 ---
 
-## 🚀 Featured Projects
+## 02 / SELECTED PROJECTS
 
-### 🏠 1. Domestic Worker Platform
-**Tech Stack:** Python
+> A selection of projects that demonstrate my interests across software, analytics, and problem-solving.
 
-A data-driven platform designed to help households find suitable domestic workers based on service requirements, location, availability, and budget.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Worker matching and recommendations
-- City- and service-based filtering
-- Estimated salary and working-hour availability
+### 🏠 Domestic Worker Platform
+
+**Software · Matching · Data**
+
+A platform concept for connecting households with suitable domestic workers based on service needs, location, availability, and budget.
+
+- Worker discovery and matching
+- Service and location filtering
+- Salary and availability information
 - Ratings and reviews
 
-🔗 **[View Repository](YOUR_DOMESTIC_WORKER_REPO_URL)**
+**Stack:** Python
 
-### 📊 2. E-Commerce Sales & Customer Analytics
-**Role:** Data Analyst | **July 2026**
+[Explore the repository →](YOUR_DOMESTIC_WORKER_REPO_URL)
 
-Analyzed e-commerce data to uncover sales trends, customer behavior, and actionable business insights.
+</td>
+<td width="50%" valign="top">
 
-- Cleaned and analyzed data using Python, Pandas, and NumPy
-- Used SQL for product, regional, and profitability analysis
-- Created visualizations using Matplotlib
-- Built an interactive Power BI dashboard
+### 📊 E-Commerce Analytics
 
-🔗 **[View Repository](YOUR_ECOMMERCE_REPO_URL)**
+**Data Analytics · Business Intelligence**
 
-### 🤖 3. AI Chatbot
-Exploring conversational AI, chatbot workflows, and application logic.
+An analytics project focused on uncovering e-commerce sales patterns and customer behavior.
 
-**Tech Stack:** Python, AI
+- Data cleaning and exploration
+- SQL-based analysis
+- Product and regional insights
+- Visualizations and dashboard development
 
-🔗 **[View Repository](YOUR_AI_CHATBOT_REPO_URL)**
+**Stack:** Python · Pandas · NumPy · SQL · Power BI
 
-### 🎮 4. Math Forge
-A gamified mathematics learning platform designed to make interactive practice more engaging.
+[Explore the repository →](YOUR_ECOMMERCE_REPO_URL)
 
-**Tech Stack:** HTML, CSS, JavaScript
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🔗 **[View Repository](YOUR_MATH_FORGE_REPO_URL)**
+### 🤖 AI Chatbot
 
-### 🔗 5. Linked List Practice
-A collection of C++ linked-list implementations and problem-solving exercises focused on strengthening fundamental data structures.
+**Artificial Intelligence · Applications**
 
-**Tech Stack:** C++, DSA
+Exploring conversational interfaces, chatbot workflows, and application logic.
 
-🔗 **[View Repository](YOUR_LINKED_LIST_REPO_URL)**
+**Stack:** Python · AI
 
-### 💡 6. DSA Learning Journey
-A growing collection of Data Structures and Algorithms problems, solutions, and implementations.
+[Explore the repository →](YOUR_AI_CHATBOT_REPO_URL)
 
-**Tech Stack:** C++, DSA
+</td>
+<td width="50%" valign="top">
 
-🔗 **[View Repository](YOUR_DSA_REPO_URL)**
+### 🎮 Math Forge
+
+**Web Development · Interactive Learning**
+
+A gamified mathematics learning experience designed to make practice more engaging.
+
+**Stack:** HTML · CSS · JavaScript
+
+[Explore the repository →](YOUR_MATH_FORGE_REPO_URL)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Linked List Practice
+
+**C++ · Data Structures**
+
+Implementations and practice problems covering linked-list operations and fundamental data structure concepts.
+
+**Stack:** C++ · DSA
+
+[Explore the repository →](YOUR_LINKED_LIST_REPO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 DSA Learning Journey
+
+**Algorithms · Consistent Practice**
+
+A collection of problem-solving exercises and implementations as I strengthen my programming fundamentals.
+
+**Stack:** C++ · DSA
+
+[Explore the repository →](YOUR_DSA_REPO_URL)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Leadership
-
-- 🥇 Winner — AWS Builders Center Hackathon
-- 🏅 Runner-up — TechExpo
-- 🤝 Lead a team during AWS Hackathon 6.0
-- 📌 Coordinated development and task distribution
-- 🚀 Collaborated to achieve project goals
-
----
-
-## 📈 GitHub Statistics
+## 03 / TECHNICAL TOOLKIT
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Purva-225&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" alt="GitHub Stats" />
+**LANGUAGES**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purva-225&layout=compact&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38BDF8&text_color=CBD5E1" alt="Most Used Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js" alt="C++, Python, C and JavaScript"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purva-225&theme=tokyonight&hide_border=true&background=020817&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+**WEB DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" alt="Web development technologies"/>
+
+**DATA & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,mongodb" alt="Data and database tools"/>
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools"/>
+
+</div>
+
+**Analytics:** SQL · Pandas · NumPy · Power BI
+
+*Tools and technologies reflect my current learning and project experience; proficiency varies by tool.*
+
+---
+
+## 04 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Purva-225&show_icons=true&hide_border=true&bg_color=071426&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub contribution statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purva-225&layout=compact&hide_border=true&bg_color=071426&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purva-225&hide_border=true&background=071426&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🎯 Goals
+## 05 / LEADERSHIP & ACHIEVEMENTS
 
-- [ ] Improve DSA and competitive programming skills
-- [ ] Build meaningful data analytics projects
-- [ ] Develop interactive dashboards and visualizations
-- [ ] Explore machine learning and cloud technologies
-- [ ] Contribute to open-source projects
-- [ ] Prepare for internships and career growth
+- 🏆 **AWS Builders Center Hackathon** — Winner
+- 🥈 **TechExpo** — Runner-up
+- 🤝 **Team Leadership** — Team coordination and task distribution during a hackathon
+
+*Achievement details can be expanded with the event year, your specific contribution, and project outcomes.*
 
 ---
 
-## 🤝 Let's Connect!
+## 06 / CURRENT DIRECTION
 
-I'm open to collaboration, internships, data analytics opportunities, and development projects. I enjoy connecting with people who love technology, problem-solving, and building impactful solutions.
+- [ ] Strengthen DSA and problem-solving fundamentals
+- [ ] Build end-to-end data analytics projects
+- [ ] Develop interactive dashboards and data visualizations
+- [ ] Explore machine learning and cloud technologies
+- [ ] Contribute to open-source projects
+- [ ] Prepare for software engineering and data internships
+
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purva-225.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/Purva-225)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+### LET'S BUILD SOMETHING MEANINGFUL.
 
-### 💙 Thanks for visiting!
+Interested in technology, analytical thinking, and collaborative projects.
 
-*Keep coding. Keep learning. Keep growing.*
+[**Explore My Portfolio ↗**](https://purva-225.github.io/)
+
+[GitHub](https://github.com/Purva-225) ·
+[LinkedIn](https://www.linkedin.com/in/purva-nigade-9b08a235a/) ·
+[Email](mailto:purvanigade6@gmail.com)
+
+<sub>Designed with curiosity. Built through iteration. Improved every day.</sub>
 
 </div>
